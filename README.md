@@ -3,7 +3,9 @@
 **Tested with Node.js version 8.x.x**
 
 ## setup
-
+```sudo apt-get install nodejs```
+```sudo apt-get install nodejs-legacy```
+```npm config set strict-ssl false```
 ```js
 git clone https://github.com/nasa8x/node-genesis-block.git genesis-block
 cd genesis-block
